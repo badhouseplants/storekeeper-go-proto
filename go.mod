@@ -1,4 +1,4 @@
-module github.com/droplez/droplez-go-proto
+module github.com/badhouseplants/storekeeper-go-proto
 
 go 1.17
 
